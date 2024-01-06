@@ -1,7 +1,7 @@
 ### Hi! I'm Youngseok You.
 - I am currently an undergraduate student at KAIST(Korea Advanced Institute of Science and Technology)
 - I am majoring in the School of Computing (with a double major in Electrical Engineering)
-
+<h4> My Linked
 <a href="https://linkedin.com/in/yskstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yskstuff" height="30" width="40" /></a>
 </p>
 
